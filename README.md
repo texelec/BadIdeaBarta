@@ -43,7 +43,7 @@ The last mode the serial menu presents is serial streaming.  This will allow you
 at 48Khz!  I had originally tried to get the flash memory to playback @ 48Khz, but the read routine was too slow in 
 single byte mode, and there is not enough RAM to cache enough data to read larger data chunks, so 16KHz.  However, the 
 serial port requires no processing from the card, and it could easily playback even higher-rates, but I capped it @ 48Khz.
-To playback files, just encode them as described above, but instead, resample the file to 48KHz for playback.
+To playback files, just encode them as described below, but instead, resample the file to 48KHz for playback.
 
 Why is uploading not part of this program?  I tried to add it here originally, but I ran into an issue with the 
 SPIMemory library.  Basically, if you call erase or write, it will slowdown each successive read.  The downside
