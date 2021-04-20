@@ -1,10 +1,10 @@
 # BadIdeaBarta
 Code, ROM and Notes on the Bad Idea Barta Board from TexElec.com
 
-Thanks to:David Murray, aka the 8-Bit Guy 
+Thanks to: David Murray, aka the 8-Bit Guy
            Clint Basigner, aka LGR
            Christian Simpson, aka Perifractic
-         & Adrian Black of Adrian's Digital Basement
+           & Adrian Black of Adrian's Digital Basement
 
 They were kind enough to contribte voice lines for this project, and it really made it a lot cooler than it would
 have been.  Thanks guys!              
