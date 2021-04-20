@@ -16,8 +16,9 @@ way of error checking, so precise input is needed for the serial menu.
 What is this thing?  It's a novelty card I created which started as an April fools day idea I had to cram as many 
 leaky batteries onto one board.  Needless to say, it got pretty feature creepy.
 
-See the youtube video I made on it here for more info:
-Or buy one from our website, if there are still any left:
+See the youtube video I made on it here for more info: https://www.youtube.com/watch?v=JqvdLEKVbyM
+
+Or buy one from our website, if there are still any left: https://texelec.com/product/bad-barta/
 
 Operation:
 The card has two main modes.  The "out of the bus" or "in the bus" mode.  Or as I call the Taunt and Secret mode.
